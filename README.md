@@ -1,16 +1,25 @@
-### Hi there 👋
+<p align="right">
+  <p align="center"><strong>Hi, I’m Alex!</strong></p>
+  <p align="left">
+      I’m an engineer at Lockheed Martin and MS candidate at Columbia, with experience in software, systems, and hardware.
 
-<!--
-**athornton1618/athornton1618** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+      Here's some of my interests:
 
-Here are some ideas to get you started:
+      -Machine Learning
+      -Artificial Intelligence
+      -Deep Reinforcement Learning
+      -Integrated Circuit Design
+      -RF & 5G Systems (Millimeter Wave)
+      -Signal Processing
+      -Data Analytics
+  </p>
+  <p align="left">
+      Everything here is open source w/ MIT license, take and reuse how you like
+  </p>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details>
+  <summary>Credits</summary>
+  <ul>
+    <li>Layout <s>stolen</s> borrowed from <a href="https://github.com/speculative"> Speculative</a>, a friend from Columbia.</li>
+</details>
