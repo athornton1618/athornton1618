@@ -5,15 +5,15 @@
       
       Here's some of my interests:
 
-      - 📈Machine Learning 
+      - 📈 Machine Learning 
       - ♟️ Artificial Intelligence
       - 🎮 Deep Reinforcement Learning
-      - 📡RF & 5G Systems (Millimeter Wave)
+      - 📡 RF & 5G Systems (Millimeter Wave)
       - 📻 Signal Processing 
-      - 📊Data Analytics 
+      - 📊 Data Analytics 
   </p>
   <p align="left">
-      Everything here is open source w/ MIT license, take and reuse how you like
+      Everything here is open source w/ MIT license ⚖️, take and reuse how you like
   
   </p>
 </p>
