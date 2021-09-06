@@ -23,3 +23,8 @@
   <ul>
     <li>Layout <s>stolen</s> borrowed from <a href="https://github.com/speculative"> Speculative</a>, a friend from Columbia.</li>
 </details>
+  
+<p align="center"> 
+  Visitors :<br>
+  <img src="https://profile-counter.glitch.me/athornton1618/count.svg" />
+</p>
