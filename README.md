@@ -14,6 +14,25 @@
       - 📊 Data Analytics 
   </p>
 </p>
+
+```python
+#!/usr/bin/python
+
+class Engineer:
+    def __init__(self):
+        self.name         = "Alexander Thornton"
+        self.role         = "AI / ML Engineer"
+        self.contact      = "apt2141@columbia.edu"
+        self.education    = "BS + MS Electrical Engineering"
+        self.skills       = "Deep Learning, Reinforcement Learning, AI, Algorithms, Big Data, RF / 5G Circuits"
+        self.linkedin     = "https://www.linkedin.com/in/alex-thornton/"
+    
+    def getCity():
+        return "Syracuse_NY"
+
+me = Engineer()
+```
+
 <p align="right">
     🔽 Featured Project: <a href="https://github.com/athornton1618/AutoTuneGUI"> AutoTune GUI</a> 🔽
 </p>
@@ -39,10 +58,10 @@
 <br>
 <br>
 <br>
+
 <p align="center">
     Everything here is open source w/ MIT license ⚖️, take and reuse how you like
 </p>
-  
 <p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/athornton1618/count.svg" />
