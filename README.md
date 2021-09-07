@@ -1,4 +1,4 @@
-<img src="https://github.com/athornton1618/athornton1618/blob/main/hello.jpg?raw=true" align="left" alt="Hello!">
+<img src="https://github.com/athornton1618/athornton1618/blob/main/hello.PNG?raw=true" align="left" alt="Hello!">
 <p align="right">
   <p align="center"><strong>Hi, I’m Alex!</strong></p>
   <p align="left">
