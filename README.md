@@ -25,7 +25,7 @@ class Engineer:
         self.contact      = "apt2141@columbia.edu"
         self.education    = "BS + MS Electrical Engineering"
         self.skills       = "Deep Learning, Reinforcement Learning, AI, Algorithms, Big Data, RF / 5G Circuits"
-        self.linkedin     = "https://www.linkedin.com/in/alex-thornton/"
+        self.connect      = "https://www.linkedin.com/in/alex-thornton/"
     
     def getCity():
         return "Syracuse_NY"
