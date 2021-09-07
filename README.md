@@ -13,9 +13,15 @@
       - 📻 Signal Processing 
       - 📊 Data Analytics 
   </p>
-  <p align="left">
-      Here's some of the tools I use:
-  </p>
+</p>
+<p align="right">
+    🔽 Featured Project: <a href="https://github.com/athornton1618/AutoTuneGUI"> AutoTune GUI</a> 🔽
+</p>
+
+<img src="https://github.com/athornton1618/athornton1618/blob/main/AutoTune.PNG?raw=true" align="right" alt="Hello!">
+
+<p align="left">
+    Here's some of the tools I use:
 </p>
 
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
@@ -29,17 +35,19 @@
 - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
 - <img align="left" alt="Visual Studio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/visualstudio.svg"/>  **Visual Studio**
 
+<br>
+<br>
 <p align="center">
     Everything here is open source w/ MIT license ⚖️, take and reuse how you like
 </p>
-
-<details>
-  <summary>Credits</summary>
-  <ul>
-    <li>Layout ideas <s>stolen</s> borrowed from <a href="https://github.com/speculative"> Speculative</a>, a friend from Columbia, and <a href=https://github.com/Wandrys-dev>     Wandrys-dev</a>.</li>
-</details>
   
 <p align="center"> 
   Visitors :<br>
   <img src="https://profile-counter.glitch.me/athornton1618/count.svg" />
 </p>
+  
+<details>
+  <summary>Credits</summary>
+  <ul>
+    <li>Layout ideas <s>stolen</s> borrowed from <a href="https://github.com/speculative"> Speculative</a>, a friend from Columbia, and <a href=https://github.com/Wandrys-dev>     Wandrys-dev</a>.</li>
+</details>
