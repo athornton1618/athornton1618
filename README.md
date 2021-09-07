@@ -47,10 +47,10 @@ me = Engineer()
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google Colab" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Colab**
-- <img align="left" alt="Raspberry Pi" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/RPi.png"/>  **Raspberry Pi**
+- <img align="left" alt="Raspberry Pi" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/RPi.png"/>  **Raspberry Pi**
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
-- <img align="left" alt="Linux" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/linux.png"/>  **Linux**
+- <img align="left" alt="Linux" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/linux.png"/>  **Linux**
 - <img align="left" alt="Markdown" width="22px" src="https://simpleicons.org/icons/markdown.svg" /> **Markdown**
 - <img align="left" alt="R" width="22px" src="https://img.shields.io/badge/R-3776AB?style=flat-square&logo=r&logoColor=white"/>  **R**
 - <img align="left" alt="LaTeX" width="22px" src="https://simpleicons.org/icons/latex.svg"/>  **LaTeX**
