@@ -58,7 +58,6 @@ me = Engineer()
 <br>
 <br>
 <br>
-<br>
 
 <p align="center">
     Everything here is open source w/ MIT license ⚖️, take and reuse how you like
