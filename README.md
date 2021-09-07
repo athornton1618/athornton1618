@@ -23,8 +23,13 @@ class Engineer:
         self.name         = "Alexander Thornton"
         self.role         = "AI / ML Engineer"
         self.contact      = "apt2141@columbia.edu"
-        self.education    = "BS + MS Electrical Engineering"
-        self.skills       = "Deep Learning, Reinforcement Learning, AI, Algorithms, Big Data, RF / 5G Circuits"
+        self.education    = {
+                            "Binghamton": "BS Electrical Engineering",
+                            "Columbia": "MS Electrical Engineering",
+                            }
+        self.skills       = ["Deep Learning", "Reinforcement Learning", "AI",
+                            "Machine Learning", "Algorithms", "Big Data Analytics", 
+                            "RF / 5G Circuits", "Signal Processing"]
         self.connect      = "https://www.linkedin.com/in/alex-thornton/"
     
     def getCity():
