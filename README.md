@@ -1,7 +1,7 @@
 <p align="right">
   <p align="center"><strong>Hi, I’m Alex!</strong></p>
   <p align="left">
-      I’m an engineer at Lockheed Martin 🚀 and MS candidate at Columbia 👑, with experience in software, systems, and hardware.
+      I’m an engineer 🚀 and MS candidate at Columbia 👑, with experience in software, systems, and hardware.
       
       Here's some of my interests:
 
