@@ -9,9 +9,10 @@
       - 📈 Machine Learning 
       - ♟️ Artificial Intelligence
       - 🎮 Deep Reinforcement Learning
-      - 📡 RF & 5G Systems (Millimeter Wave)
-      - 📻 Signal Processing 
-      - 📊 Data Analytics 
+      - 📻 Digital Signal Processing 
+      - 📊 Data Analytics
+      - 🎹 Audio Signals
+      - 📡 RF Communications / Integrated Circuits
   </p>
 </p>
 
