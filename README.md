@@ -54,6 +54,7 @@ me = Engineer()
 - <img align="left" alt="TensorFlow" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/tensorflow.png" />  **TensorFlow**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
+- <img align="left" alt="Apache Spark" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/spark.png" /> **Apache Spark**
 - <img align="left" alt="Google Colab" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/colab.png" /> **Google Colab**
 - <img align="left" alt="Google Cloud" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/gcp.png" /> **Google Cloud**
 - <img align="left" alt="Raspberry Pi" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/RPi.png"/>  **Raspberry Pi**
