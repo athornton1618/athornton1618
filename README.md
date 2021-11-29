@@ -51,10 +51,11 @@ me = Engineer()
 
 - <img align="left" alt="Python" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />  **Python**
 - <img align="left" alt="PyTorch" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/pytorch.png" />  **PyTorch**
+- <img align="left" alt="TensorFlow" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/tensorflow.png" />  **TensorFlow**
 - <img align="left" alt="MATLAB" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" />  **MATLAB**
 - <img align="left" alt="Jupyter Notebook" width="22px" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" /> **Jupyter NoteBook**
 - <img align="left" alt="Google Colab" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/colab.png" /> **Google Colab**
-- <img align="left" alt="Google Cloud" width="22px" src="https://logo.letskhabar.com/img/?tool=google_cloud" /> **Google Cloud**
+- <img align="left" alt="Google Cloud" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/gcp.png" /> **Google Cloud**
 - <img align="left" alt="Raspberry Pi" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/RPi.png"/>  **Raspberry Pi**
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
