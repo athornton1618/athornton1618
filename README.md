@@ -61,6 +61,7 @@ me = Engineer()
 - <img align="left" alt="Git" width="22px" src="https://logo.letskhabar.com/img/?tool=git" /> **Git**
 - <img align="left" alt="GitHub" width="22px" src="https://logo.letskhabar.com/img/?tool=github" /> **GitHub**
 - <img align="left" alt="Linux" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/linux.png"/>  **Linux**
+- <img align="left" alt="Node.js" width="18px" src="https://github.com/athornton1618/athornton1618/blob/main/js.png"/>  **Node.js**
 - <img align="left" alt="Visual Studio" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/vscode.png"/>  **Visual Studio**
 - <img align="left" alt="LaTeX" width="70px" src="https://github.com/athornton1618/athornton1618/blob/main/LaTeX.png"/>
 
