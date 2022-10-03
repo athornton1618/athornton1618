@@ -2,7 +2,7 @@
 <p align="right">
   <p align="center"><strong>Hi, I’m Alex!</strong></p>
   <p align="center">
-      I’m an engineer 🚀 and graduate of Columbia 👑, with experience in AI, software, and systems.
+      I’m an engineer 🚀 and graduate of Columbia University <img alt="CU" width="22px" src="https://github.com/athornton1618/athornton1618/blob/main/Crown.jpg" />
       
       Here's some of my interests:
 
